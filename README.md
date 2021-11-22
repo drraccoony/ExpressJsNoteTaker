@@ -2,7 +2,7 @@
 
 You can preview the application deployed on Heroku at https://express-js-notetaker.herokuapp.com/.
 
-![preview](assets\animation.gif)
+![preview](assets/animation.gif)
 
 ## Story
 ```
