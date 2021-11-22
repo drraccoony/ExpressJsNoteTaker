@@ -1,0 +1,7 @@
+**/.DS_Store
+**/*.icloud
+
+
+node_modules
+node_modules/
+**/node_modules
